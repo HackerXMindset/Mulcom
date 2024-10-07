@@ -1,0 +1,49 @@
+{
+  "accounts": [
+    {
+      "phone": "+5592994672910",
+      "api_id": 29292345,
+      "api_hash": "e27310d22e6898f8b2fc0c5b84cc6b70",
+      "channels": [
+        {
+          "username": "blumcrypto",
+          "comment": "Great content! Looking forward to more insights."
+        },
+        {
+          "username": "notpixelindiahindi",
+          "comment": "Interesting post. Thanks for sharing this information."
+        }
+      ]
+    },
+    {
+      "phone": "+918839008052",
+      "api_id": 23648753,
+      "api_hash": "3d474d7943847a3dd5a66a9004b44f9e",
+      "channels": [
+        {
+          "username": "blumcrypto",
+          "comment": "This is really informative. Appreciate the update!"
+        },
+        {
+          "username": "notpixelindiahindi",
+          "comment": "Well explained. I learned something new today."
+        }
+      ]
+    },
+    {
+      "phone": "+919361439493",
+      "api_id": 22021400,
+      "api_hash": "198d9c77eaf84ac2f3e6a38b678c92f2",
+      "channels": [
+        {
+          "username": "blumcrypto",
+          "comment": "Fascinating perspective! Keep up the great work."
+        },
+        {
+          "username": "notpixelindiahindi",
+          "comment": "Thanks for sharing this valuable information."
+        }
+      ]
+    }
+  ]
+}
